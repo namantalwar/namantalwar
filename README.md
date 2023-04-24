@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="(https://dynamic-badges.maxalpha.repl.co/meme)" width="512px"/>
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=namantalwar&icon=2&color=12)](https://visitcount.itsvg.in)
