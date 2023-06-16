@@ -15,9 +15,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=450 height=400/>
-
----
-[![](https://visitcount.itsvg.in/api?id=namantalwar&icon=2&color=12)](https://visitcount.itsvg.in)
 
