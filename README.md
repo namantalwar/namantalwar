@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a pre-final year student at Vellore institute of Technology, Bhopal<br>🌱 My interests are Data Science and Machine learning but curious about more...<br>💬 My preferred languages are Python and Java
+🔭 I'm a final year student at Vellore institute of Technology, Bhopal<br>🌱 My interests are Data Science and Machine learning but curious about more...<br>💬 My preferred languages are Python and Java
 
 
 ## 🌐 Socials:
